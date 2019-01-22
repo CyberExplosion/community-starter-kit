@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to the behaviorbot program, we are here to make sure you have the best experience working on GitHub by providing you with details and informations about the website. And maybe on your way to master this awesome version control website, you can have some fun and meet friends along the way also. We are really glad to help you along your way to succeed. On behalf of the GitHub team, welcome to your new world :smile:
